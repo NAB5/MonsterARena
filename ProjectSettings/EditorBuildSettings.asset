@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 12217369e4d3b4fe88a26115d9070008
+  - enabled: 1
+    path: Assets/Scenes/sandbox.unity
+    guid: b6162d13a6a2d471aa8ca9fd7568fce6
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 81c242021e6c14e61a7837c5bc4c9abf
+  - enabled: 1
+    path: Assets/Scenes/Defeat.unity
+    guid: aa77482dce36e4096b5a689e1b1cecf1
+  - enabled: 0
+    path: Assets/Scenes/ARtest.unity
+    guid: 9df7847605cac4f66b507c3cfeb4701b
+  m_configObjects:
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 44f5a3e59def54b209d208d2bcd200be,
+      type: 2}
