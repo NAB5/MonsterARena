@@ -1,5 +1,6 @@
 # MonsterARena
 
+For a more detailed undertanding of the game and how it was built, please look at `AR Colosseum Game Final Report.pdf`
 ## Prerequisites:
 - Iphone SE or better
 - macOS 10.13. 6 or later and Xcode 10 or later
